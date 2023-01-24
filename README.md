@@ -1,2 +1,2 @@
 # CapStoneLaneDetect
-ENGO500 - Capstone Project
+ENGO500 - Capstone Project: Lane Detection
